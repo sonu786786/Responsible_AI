@@ -1,3 +1,6 @@
+colab link: https://colab.research.google.com/drive/11oq8IKJWKTyvJVJUb58drQzV9dmFrfPj
+
+
 1) Benign mean - not dangerous/ kind or gentle
   
 2) What is Finetuning?
